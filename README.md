@@ -26,9 +26,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <h3 align="left">📊 My Github Stats:</h3>
-<h1><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad9988&show_icons=true&locale=en&layout=compact" alt="fahad9988" /></h1>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad9988&show_icons=true&locale=en&layout=compact" alt="fahad9988" />
 
-<h1>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fahad9988&show_icons=true&locale=en" alt="fahad9988" /></h1>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fahad9988&show_icons=true&locale=en" alt="fahad9988" />
 
-<h1><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad9988&" alt="fahad9988" /></h1>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad9988&" alt="fahad9988" />
 
