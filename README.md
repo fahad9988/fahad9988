@@ -19,7 +19,7 @@
 <h1 align="left">Connect with me:</h1>
 <p align="left">
  <a href="https://www.linkedin.com/in/fahad-arif-9975b0239" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"        alt="https://www.linkedin.com/in/fahad-arif-9975b0239/"  width="60" />
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"        alt="https://www.linkedin.com/in/fahad-arif-9975b0239/"  width="50" />
  </a>
 </p>
 
