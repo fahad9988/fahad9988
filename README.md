@@ -28,6 +28,7 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" /> 
   </a> 
+ &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" /> 
   </a> 
