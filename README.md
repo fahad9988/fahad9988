@@ -14,7 +14,7 @@
 - 📄 Know about my experiences 👉 [Resume](https://drive.google.com/file/d/1F8rF5bGcV3oyXt6L5wcu-LvRDn3bNXPG/view?usp=sharing)
 
 - ⚡ Fun fact about me 👉 **I love to play Football.**
-
+<br/>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
  <a href="https://www.linkedin.com/in/fahad-arif-9975b0239" target="blank">
