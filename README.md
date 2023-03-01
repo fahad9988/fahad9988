@@ -16,10 +16,10 @@
 - ⚡ Fun fact about me 👉 **I love to play Football.**
 <br/>
 <br/>
-<h1 align="left">Connect with me:</h1>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
  <a href="https://www.linkedin.com/in/fahad-arif-9975b0239" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"        alt="https://www.linkedin.com/in/fahad-arif-9975b0239/"  width="45" />
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"        alt="https://www.linkedin.com/in/fahad-arif-9975b0239/"  width="35" />
  </a>
 </p>
 
