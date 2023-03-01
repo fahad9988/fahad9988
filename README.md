@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact about me 👉 **I love to play Football.**
 <br/>
+<br/>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
  <a href="https://www.linkedin.com/in/fahad-arif-9975b0239" target="blank">
