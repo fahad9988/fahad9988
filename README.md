@@ -16,14 +16,14 @@
 - ⚡ Fun fact about me 👉 **I love to play Football.**
 <br/>
 <br/>
-<h2 align="left">Connect with me:</h2>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
  <a href="https://www.linkedin.com/in/fahad-arif-9975b0239" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"        alt="https://www.linkedin.com/in/fahad-arif-9975b0239/"  width="35" />
  </a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" /> 
@@ -74,7 +74,7 @@
   </a> 
 </p>
 
-<h2 align="left">📊 My Github Stats:</h2>
+<h1 align="left">📊 My Github Stats:</h1>
 <p align="center">
  <p align="center" >
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad9988&show_icons=true&locale=en" alt="fahad9988" />
