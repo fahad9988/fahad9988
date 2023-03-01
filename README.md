@@ -79,9 +79,11 @@
  <p align="center" >
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad9988&show_icons=true&locale=en" alt="fahad9988" />
 </p>
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad9988&" alt="fahad9988" />
-
+</p>
+<p align="center" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad9988&show_icons=true&locale=en&layout=compact" alt="fahad9988" />
-
+</p>
 </p>
 
