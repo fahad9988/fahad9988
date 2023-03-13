@@ -25,9 +25,9 @@
 
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
- 
+ <a>
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" /> 
-  
+ </a>
  &nbsp;
  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" /> 
@@ -69,7 +69,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" /> 
   
  &nbsp;
-
+   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" /> 
 
 </p>
