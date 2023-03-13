@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://fahad9988.github.io/)
 <h1 align="center">Hey there, I'm Fahad Arif!</h1>
-<h3 align="center">A tech-enthusiast and an observant full stack web developer with the ability to write clean and reusable code. Have hands on experience in building and maintaining MERN based web applications. Looking forward to join a progressive and a challenging work environment and passionate to learn new technologies.</h3>
+<h4>A tech-enthusiast and an observant full stack web developer with the ability to write clean and reusable code. Have hands on experience in building and maintaining MERN based web applications. Looking forward to join a progressive and a challenging work environment and passionate to learn new technologies.</h4>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning **Full Stack Web Development from Masai School.**
